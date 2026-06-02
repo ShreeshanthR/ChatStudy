@@ -75,7 +75,7 @@ Client-server chat applications are foundational to real-time communication over
 ## Program:
 ### Client:
 ```python
-#Developed by : SHREESHANTH R
+#Developed by : Shreeshanth R
 #Register number : 212225040411
 import socket 
 s = socket.socket() 
@@ -96,8 +96,8 @@ while 1:
 ```
 ### Server:
 ```python
-#Developed by : AASHIF AHAMED S
-#Register number : 212225040004
+#Developed by : Shreeshanth R
+#Register number : 212225040411
 import socket 
 s = socket.socket() 
 host = socket.gethostname() 
@@ -124,9 +124,11 @@ while 1:
 ```
 ## Output:
 ### Client:
-<img width="1813" height="442" alt="image" src="https://github.com/user-attachments/assets/6c0b72be-e53d-4138-9730-00ea0255832e" />
+<img width="858" height="323" alt="image" src="https://github.com/user-attachments/assets/d148ca1b-9f76-4d90-9bd0-2eb70e94ac72" />
+
 ### Server:
-<img width="1812" height="600" alt="image" src="https://github.com/user-attachments/assets/509af00b-b135-4ecd-9a2e-a3798c693a20" />
+<img width="863" height="347" alt="image" src="https://github.com/user-attachments/assets/987bdae1-8a0f-42b6-829a-015b9f64ac8e" />
+
 
 ## Result:
 
